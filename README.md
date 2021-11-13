@@ -4,4 +4,5 @@
 - 💞️ I’m working on my Minecraft Server named FairyTail France
 - 📫 How to reach me :
     @bysplash on Tiktok
-    @bysplashtv on Instagram and Twitch
+    @bysplash on Instagram
+    BySplashGm on Twitch
