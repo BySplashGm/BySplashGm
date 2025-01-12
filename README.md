@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bysplashgm" alt="bysplashgm" /></a> </p>
 
-- 🔭 I’m currently working on [Magearna](https://github.com/BySplashGm/Magearna)
+- 🔭 I’m currently working on my [portfolio](https://github.com/BySplashGm/portfolio)
 
 - 🌱 I’m currently learning **Symfony**
 
