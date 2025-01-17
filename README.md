@@ -7,6 +7,7 @@
 
 - 📫 How to reach me **contact@maximeval.in**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bysplashgm&label=Profile%20views&color=0e75b6&style=flat-square" alt="bysplashgm" /> </p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MaximeValin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/BySplashTV) 
