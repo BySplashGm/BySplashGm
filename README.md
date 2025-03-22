@@ -1,11 +1,11 @@
 # 💫 About Me:
 - 🔭 I’m currently working on my [portfolio](https://github.com/BySplashGm/portfolio)
 
-- 🌱 I’m currently learning **Symfony**
+- 🌱 I’m currently learning **Nuxt** and **Vuejs**
 
 - 👨‍💻 All of my projects are available at [https://maximeval.in/projects](https://maximeval.in/projects)
 
-- 📫 How to reach me **contact@maximeval.in**
+- 📫 Reach me at **contact@maximeval.in**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bysplashgm&label=Profile%20views&color=0e75b6&style=flat-square" alt="bysplashgm" /> </p>
 
